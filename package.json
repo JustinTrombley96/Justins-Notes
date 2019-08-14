@@ -1,0 +1,18 @@
+{
+  "name": "JustinsNotes",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "repository": "https://github.com/JustinAndrade/Justins-Notes.git",
+  "author": "Justin <j.andrade.john@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "description": "Note taking application"
+}
